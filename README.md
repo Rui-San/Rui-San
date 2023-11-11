@@ -1,2 +1,14 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Rui-San/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Rui-San/github-readme-stats#gh-light-mode-only)
+<table>
+<thead>
+  <tr>
+  <th>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rui-San&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"
+           style="max-width: 100%;"></a></th>
+  <th>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rui-San&layout=compact" 
+           style="max-width: 100%;"></a></th>
+  </tr>
+</thead>
+</table>
