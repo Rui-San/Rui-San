@@ -4,7 +4,7 @@
 ---
 
 ### Tools:
-![](https://skillicons.dev/icons?i=html,css,php,js,mysql,c,ts,nodejs,react,scss,java,py)
+![](https://skillicons.dev/icons?i=html,css,php,js,mysql,c,cs,ts,nodejs,react,scss,java,py)
 
 ### Software:
 ![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,powershell,unity,ps,blender,idea,unreal)
