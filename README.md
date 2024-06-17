@@ -7,7 +7,7 @@
 ![](https://skillicons.dev/icons?i=c,cs,html,css,php,js,ts,nodejs,react,scss,mysql,java,py)
 
 ### Software:
-![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,ps,blender,unityunreal)
+![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,ps,blender,unity,unreal)
 
 ---
 
