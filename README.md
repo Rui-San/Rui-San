@@ -2,7 +2,7 @@
 ## My name's Rui and I'm an aspiring Software Engineer and Indie Game Developer.
 
 ### Tools:
-[![](https://skillicons.dev/icons?i=html,css,php,js,sql,ts,nodejs,react,scss,java,py)](#)
+[![](https://skillicons.dev/icons?i=html,css,php,js,mysql,ts,nodejs,react,scss,java,py)](#)
 <br/>
 
 ## Software:
