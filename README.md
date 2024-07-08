@@ -4,13 +4,13 @@
 ---
 
 ### Tools:
-![](https://simpleskill.icons.workers.dev/svg?i=dotnet,c,sharp,html5,css3,php,javascript,mysql,java,Python)
+![](https://simpleskill.icons.workers.dev/svg?i=dotnet,c,sharp,html5,css3,php,javascript,mysql,java,Python&theme=light)
 
 ### Software:
-![](https://simpleskill.icons.workers.dev/svg?i=git,github,vscode,visualstudio,idea,ps,blender,unity,unreal)
+![](https://simpleskill.icons.workers.dev/svg?i=git,github,vscode,visualstudio,idea,ps,blender,unity,unreal&theme=light)
 
 ### Learning:
-![](https://simpleskill.icons.workers.dev/svg?i=ts,nodejs,react,scss,nextjs,jquery,laravel,mongodb,tailwind)
+![](https://simpleskill.icons.workers.dev/svg?i=ts,nodejs,react,scss,nextjs,jquery,laravel,mongodb,tailwind&theme=light)
 
 ---
 
