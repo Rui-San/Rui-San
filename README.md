@@ -4,13 +4,13 @@
 ---
 
 ### Tools:
-![](https://skillicons.dev/icons?i=dotnet,c,cs,html,css,php,js,mysql,java,py)
+![](https://simpleskill.icons.workers.dev/svg?i=dotnet,c,cs,html,css,php,js,mysql,java,py)
 
 ### Software:
-![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,ps,blender,unity,unreal)
+![](https://simpleskill.icons.workers.dev/svg?i=git,github,vscode,visualstudio,idea,ps,blender,unity,unreal)
 
 ### Learning:
-![](https://skillicons.dev/icons?i=ts,nodejs,react,scss,nextjs,jquery,laravel,mongodb,tailwind)
+![](https://simpleskill.icons.workers.dev/svg?i=ts,nodejs,react,scss,nextjs,jquery,laravel,mongodb,tailwind)
 
 ---
 
