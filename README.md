@@ -7,10 +7,10 @@
 ![](https://simpleskill.icons.workers.dev/svg?i=dotnet,c,sharp,html5,css3,php,javascript,mysql,java,Python&theme=light)
 
 ### Software:
-![](https://simpleskill.icons.workers.dev/svg?i=git,github,vscode,visualstudio,idea,ps,blender,unity,unreal&theme=light)
+![](https://simpleskill.icons.workers.dev/svg?i=git,github,intellijidea,adobephotoshop,blender,unity,unrealengine&theme=light)
 
 ### Learning:
-![](https://simpleskill.icons.workers.dev/svg?i=TypeScript,nodedotjs,react,sass,nextdotjs,jquery,laravel,mongodb,tailwind&theme=light)
+![](https://simpleskill.icons.workers.dev/svg?i=TypeScript,nodedotjs,react,sass,nextdotjs,jquery,laravel,mongodb,tailwindcss&theme=light)
 
 ---
 
