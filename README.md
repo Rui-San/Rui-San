@@ -12,6 +12,11 @@
 ### Learning:
 ![](https://simpleskill.icons.workers.dev/svg?i=TypeScript,nodedotjs,react,sass,nextdotjs,jquery,laravel,mongodb,tailwindcss&theme=light)
 
+### Projects:
+- Retro style, endless survival game
+- Roguelike twin-stick shooter
+- Portfolio Website
+
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=rui-san&show_icons=true&theme=dark)
