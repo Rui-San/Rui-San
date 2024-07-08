@@ -10,7 +10,7 @@
 ![](https://simpleskill.icons.workers.dev/svg?i=git,github,vscode,visualstudio,idea,ps,blender,unity,unreal&theme=light)
 
 ### Learning:
-![](https://simpleskill.icons.workers.dev/svg?i=ts,nodejs,react,scss,nextjs,jquery,laravel,mongodb,tailwind&theme=light)
+![](https://simpleskill.icons.workers.dev/svg?i=TypeScript,nodedotjs,react,sass,nextdotjs,jquery,laravel,mongodb,tailwind&theme=light)
 
 ---
 
