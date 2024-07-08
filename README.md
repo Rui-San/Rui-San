@@ -4,7 +4,7 @@
 ---
 
 ### Tools:
-![](https://simpleskill.icons.workers.dev/svg?i=dotnet,c,css3,html5,css,php,js,mysql,java,py)
+![](https://simpleskill.icons.workers.dev/svg?i=dotnet,c,sharp,html5,css3,php,javascript,mysql,java,Python)
 
 ### Software:
 ![](https://simpleskill.icons.workers.dev/svg?i=git,github,vscode,visualstudio,idea,ps,blender,unity,unreal)
