@@ -16,5 +16,3 @@
 - Portfolio Website
 
 ---
-
-![](https://github-readme-stats.vercel.app/api?username=rui-san&show_icons=true&theme=dark)
