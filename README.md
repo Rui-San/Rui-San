@@ -1,4 +1,4 @@
-<h2> Welcome to my GitHub account ☕ &nbsp <img src="https://komarev.com/ghpvc/?username=Rui-San" alt="Rui-San" /></h2>
+<h2> Welcome to my GitHub account ☕ </h2>
 
 <h3> About Me </h3>
 
